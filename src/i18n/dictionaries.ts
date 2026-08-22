@@ -1098,8 +1098,8 @@ const dictionaries = {
   },
 } as const;
 
-export type Dictionary = (typeof dictionaries)["nl"];
+export type Dictionary = (typeof dictionaries)[Locale];
 
-export function getDictionary(locale: Locale): Dictionary {
+export function getDictionary(locale: Locale) {
   return dictionaries[locale];
 }
