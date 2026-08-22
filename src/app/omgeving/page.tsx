@@ -59,6 +59,19 @@ export default function OmgevingPage() {
         </div>
       </section>
 
+      {/* Drone video */}
+      <section className="bg-white py-14">
+        <div className="max-w-5xl mx-auto px-4 text-center">
+          <h2 className="text-2xl font-bold text-[#3a5a40] mb-4">{o.droneTitle}</h2>
+          <p className="text-[#4a4a4a] leading-relaxed text-lg max-w-3xl mx-auto mb-8">{o.droneText}</p>
+          <div className="rounded-2xl overflow-hidden shadow-md">
+            <video className="w-full h-auto" controls preload="metadata" playsInline>
+              <source src="/drone-col-du-fatten.mp4" type="video/mp4" />
+            </video>
+          </div>
+        </div>
+      </section>
+
       {/* CTA */}
       <section className="bg-[#3a5a40] text-white py-10 md:py-16">
         <div className="max-w-3xl mx-auto px-4 text-center flex flex-col gap-5">
