@@ -75,7 +75,8 @@ export default function ContactPage() {
               </h2>
               <address className="not-italic text-[#4a4a4a] text-lg leading-relaxed space-y-1">
                 <p className="font-semibold text-[#3a5a40]">Col du Fatten</p>
-                <p>Neerbeek, Limburg</p>
+                <p>Fattenbergstraat 18</p>
+                <p>6191 ER Beek</p>
                 <p>{c.country}</p>
                 <div className="pt-3 flex flex-col gap-1">
                   <a href="mailto:coldufatten@gmail.com" className="text-[#3a5a40] hover:underline underline-offset-4 transition-colors">

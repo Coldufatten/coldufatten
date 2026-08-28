@@ -24,7 +24,7 @@ const dictionaries = {
       heroBtn1: "Bekijk de accommodatie",
       heroBtn2: "Beschikbaarheid",
       introTitle: "Een thuis ver van huis",
-      introText: "Col du Fatten is een karaktervol vakantieverblijf in het hart van Neerbeek, een schilderachtig dorp in Zuid-Limburg. Of u nu komt voor de uitgestrekte wandelroutes, historische kastelen, lokale wijnen of gewoon voor de Bourgondische rust — hier vindt u het allemaal op loopafstand.",
+      introText: "Col du Fatten is een karaktervol vakantieverblijf in het hart van Neerbeek, een dorp aan de heuvelpoort van Zuid-Limburg. Of u nu komt voor de uitgestrekte wandelroutes, historische kastelen, lokale wijnen of gewoon voor de Bourgondische rust — hier vindt u het allemaal op loopafstand.",
       highlightsTitle: "Ontdek Col du Fatten",
       highlights: [
         { title: "De Accommodatie", description: "Een comfortabele en sfeervolle woning met alle moderne gemakken, perfect voor een ontspannen verblijf." },
@@ -137,7 +137,7 @@ const dictionaries = {
       heroTitle: "De Accommodatie",
       heroText: "Een karaktervol verblijf vol warmte, stijl en ruimte",
       introTitle: "Thuis in het hart van Neerbeek",
-      introText: "Col du Fatten is een authentiek en sfeervol vakantieverblijf midden in het pittoreske Neerbeek, Zuid-Limburg. Het pand combineert historische charme met eigentijds comfort — van de gezellige bibliotheek en de unieke pianokamer tot de weelderige achtertuin en de serene binnenplaats. Hier vindt u de perfecte plek om tot rust te komen.",
+      introText: "Col du Fatten is een authentiek en sfeervol vakantieverblijf in Neerbeek, een ideale uitvalsbasis voor het Zuid-Limburgse Heuvelland. Het pand combineert historische charme met eigentijds comfort — van de gezellige bibliotheek en de unieke pianokamer tot de weelderige achtertuin en de serene binnenplaats. Hier vindt u de perfecte plek om tot rust te komen.",
       featuresTitle: "Voorzieningen & ruimtes",
       features: [
         { title: "Twee slaapkamers", description: "Twee ruime, stijlvolle slaapkamers met comfortabele bedden en volop natuurlijk licht." },
@@ -214,7 +214,7 @@ const dictionaries = {
       heroBtn1: "View the accommodation",
       heroBtn2: "Availability",
       introTitle: "A home away from home",
-      introText: "Col du Fatten is a characterful holiday home in the heart of Neerbeek, a picturesque village in Zuid-Limburg. Whether you come for the extensive walking routes, historic castles, local wines or simply for the Burgundian peace and quiet — you will find it all within walking distance.",
+      introText: "Col du Fatten is a characterful holiday home in the heart of Neerbeek, a village at the gateway to the Zuid-Limburg hills. Whether you come for the extensive walking routes, historic castles, local wines or simply for the Burgundian peace and quiet — you will find it all within walking distance.",
       highlightsTitle: "What awaits you?",
       highlights: [
         { title: "The Accommodation", description: "A comfortable and atmospheric home with all modern conveniences, perfect for a relaxing stay." },
@@ -327,7 +327,7 @@ const dictionaries = {
       heroTitle: "The Accommodation",
       heroText: "A characterful stay full of warmth, style and space",
       introTitle: "At home in the heart of Neerbeek",
-      introText: "Col du Fatten is an authentic and atmospheric holiday home in picturesque Neerbeek, Zuid-Limburg. The property combines historic charm with contemporary comfort — from the cosy library and unique piano room to the lush garden and serene courtyard. Here you will find the perfect place to unwind.",
+      introText: "Col du Fatten is an authentic and atmospheric holiday home in Neerbeek, an ideal base for exploring the Zuid-Limburg hills. The property combines historic charm with contemporary comfort — from the cosy library and unique piano room to the lush garden and serene courtyard. Here you will find the perfect place to unwind.",
       featuresTitle: "Facilities & spaces",
       features: [
         { title: "Two bedrooms", description: "Two spacious, stylish bedrooms with comfortable beds and plenty of natural light." },
@@ -404,7 +404,7 @@ const dictionaries = {
       heroBtn1: "Unterkunft ansehen",
       heroBtn2: "Verfügbarkeit",
       introTitle: "Ein Zuhause fern von Zuhause",
-      introText: "Col du Fatten ist ein charaktervolles Ferienhaus im Herzen von Neerbeek, einem malerischen Dorf in Zuid-Limburg. Ob Sie für die weitläufigen Wanderrouten, historischen Burgen, lokalen Weine oder einfach für die burgundische Ruhe kommen — hier finden Sie alles in Gehnähe.",
+      introText: "Col du Fatten ist ein charaktervolles Ferienhaus im Herzen von Neerbeek, einem Dorf am Tor zum Hügelland von Zuid-Limburg. Ob Sie für die weitläufigen Wanderrouten, historischen Burgen, lokalen Weine oder einfach für die burgundische Ruhe kommen — hier finden Sie alles in Gehnähe.",
       highlightsTitle: "Was erwartet Sie?",
       highlights: [
         { title: "Die Unterkunft", description: "Ein komfortables und stimmungsvolles Haus mit allen modernen Annehmlichkeiten, perfekt für einen erholsamen Aufenthalt." },
@@ -517,7 +517,7 @@ const dictionaries = {
       heroTitle: "Die Unterkunft",
       heroText: "Ein charaktervolles Domizil voller Wärme, Stil und Raum",
       introTitle: "Zuhause im Herzen von Neerbeek",
-      introText: "Col du Fatten ist ein authentisches und stimmungsvolles Ferienhaus im malerischen Neerbeek, Zuid-Limburg. Das Gebäude verbindet historischen Charme mit zeitgemäßem Komfort — von der gemütlichen Bibliothek und dem einzigartigen Klavierzimmer bis zum üppigen Garten und dem ruhigen Innenhof. Hier finden Sie den perfekten Ort zur Entspannung.",
+      introText: "Col du Fatten ist ein authentisches und stimmungsvolles Ferienhaus in Neerbeek, ein idealer Ausgangspunkt für das Zuid-Limburgse Hügelland. Das Gebäude verbindet historischen Charme mit zeitgemäßem Komfort — von der gemütlichen Bibliothek und dem einzigartigen Klavierzimmer bis zum üppigen Garten und dem ruhigen Innenhof. Hier finden Sie den perfekten Ort zur Entspannung.",
       featuresTitle: "Ausstattung & Räume",
       features: [
         { title: "Zwei Schlafzimmer", description: "Zwei geräumige, stilvolle Schlafzimmer mit bequemen Betten und viel Tageslicht." },
@@ -594,7 +594,7 @@ const dictionaries = {
       heroBtn1: "Voir l'hébergement",
       heroBtn2: "Disponibilité",
       introTitle: "Un chez-soi loin de chez soi",
-      introText: "Col du Fatten est un gîte de caractère au cœur de Neerbeek, un village pittoresque du Zuid-Limburg. Que vous veniez pour les sentiers de randonnée, les châteaux historiques, les vins locaux ou simplement pour la quiétude bourguignonne — tout se trouve à distance de marche.",
+      introText: "Col du Fatten est un gîte de caractère au cœur de Neerbeek, un village à la porte des collines du Zuid-Limburg. Que vous veniez pour les sentiers de randonnée, les châteaux historiques, les vins locaux ou simplement pour la quiétude bourguignonne — tout se trouve à distance de marche.",
       highlightsTitle: "Qu'est-ce qui vous attend ?",
       highlights: [
         { title: "L'hébergement", description: "Une maison confortable et chaleureuse avec tout le confort moderne, parfaite pour un séjour reposant." },
@@ -696,7 +696,7 @@ const dictionaries = {
       heroTitle: "L'hébergement",
       heroText: "Un séjour de caractère, chaleureux, élégant et spacieux",
       introTitle: "Chez soi au cœur de Neerbeek",
-      introText: "Col du Fatten est un gîte authentique et chaleureux au cœur du pittoresque Neerbeek, dans le sud du Limbourg. Le bâtiment allie charme historique et confort moderne — de la bibliothèque accueillante et la salle de piano unique au jardin luxuriant et la cour intérieure sereine. Ici, vous trouverez l'endroit idéal pour vous détendre.",
+      introText: "Col du Fatten est un gîte authentique et chaleureux à Neerbeek, un point de départ idéal pour les collines du Zuid-Limburg. Le bâtiment allie charme historique et confort moderne — de la bibliothèque accueillante et la salle de piano unique au jardin luxuriant et la cour intérieure sereine. Ici, vous trouverez l'endroit idéal pour vous détendre.",
       featuresTitle: "Équipements & espaces",
       features: [
         { title: "Deux chambres", description: "Deux chambres spacieuses et élégantes avec des lits confortables et beaucoup de lumière naturelle." },
@@ -773,7 +773,7 @@ const dictionaries = {
       heroBtn1: "Ver el alojamiento",
       heroBtn2: "Disponibilidad",
       introTitle: "Un hogar lejos de casa",
-      introText: "Col du Fatten es una casa rural con carácter en el corazón de Neerbeek, un pintoresco pueblo de Zuid-Limburg. Ya venga por las extensas rutas de senderismo, los castillos históricos, los vinos locales o simplemente por la paz borgoñona — aquí lo encontrará todo a poca distancia.",
+      introText: "Col du Fatten es una casa rural con carácter en el corazón de Neerbeek, un pueblo a las puertas de las colinas de Zuid-Limburg. Ya venga por las extensas rutas de senderismo, los castillos históricos, los vinos locales o simplemente por la paz borgoñona — aquí lo encontrará todo a poca distancia.",
       highlightsTitle: "¿Qué le espera?",
       highlights: [
         { title: "El alojamiento", description: "Una vivienda cómoda y acogedora con todas las comodidades modernas, perfecta para una estancia relajante." },
@@ -875,7 +875,7 @@ const dictionaries = {
       heroTitle: "El alojamiento",
       heroText: "Una estancia con carácter, calidez, estilo y amplitud",
       introTitle: "Como en casa en el corazón de Neerbeek",
-      introText: "Col du Fatten es una casa rural auténtica y acogedora en el pintoresco Neerbeek, Zuid-Limburg. El edificio combina encanto histórico con comodidades modernas — desde la acogedora biblioteca y la singular sala de piano hasta el exuberante jardín y el sereno patio interior. Aquí encontrará el lugar perfecto para descansar.",
+      introText: "Col du Fatten es una casa rural auténtica y acogedora en Neerbeek, una base ideal para explorar las colinas de Zuid-Limburg. El edificio combina encanto histórico con comodidades modernas — desde la acogedora biblioteca y la singular sala de piano hasta el exuberante jardín y el sereno patio interior. Aquí encontrará el lugar perfecto para descansar.",
       featuresTitle: "Instalaciones y espacios",
       features: [
         { title: "Dos dormitorios", description: "Dos dormitorios amplios y elegantes con camas cómodas y abundante luz natural." },
@@ -952,7 +952,7 @@ const dictionaries = {
       heroBtn1: "Scopri l'alloggio",
       heroBtn2: "Disponibilità",
       introTitle: "Una casa lontano da casa",
-      introText: "Col du Fatten è una casa vacanze piena di carattere nel cuore di Neerbeek, un pittoresco villaggio del Zuid-Limburg. Che veniate per i sentieri escursionistici, i castelli storici, i vini locali o semplicemente per la pace borgognona — qui troverete tutto a pochi passi.",
+      introText: "Col du Fatten è una casa vacanze piena di carattere nel cuore di Neerbeek, un villaggio alle porte delle colline del Zuid-Limburg. Che veniate per i sentieri escursionistici, i castelli storici, i vini locali o semplicemente per la pace borgognona — qui troverete tutto a pochi passi.",
       highlightsTitle: "Cosa vi aspetta?",
       highlights: [
         { title: "L'alloggio", description: "Una casa confortevole e suggestiva con tutti i comfort moderni, perfetta per un soggiorno rilassante." },
@@ -1054,7 +1054,7 @@ const dictionaries = {
       heroTitle: "L'alloggio",
       heroText: "Un soggiorno ricco di carattere, calore, stile e spazio",
       introTitle: "A casa nel cuore di Neerbeek",
-      introText: "Col du Fatten è una casa vacanze autentica e suggestiva nel pittoresco Neerbeek, Zuid-Limburg. L'edificio unisce fascino storico a comfort moderno — dall'accogliente biblioteca e l'unica sala del pianoforte al rigoglioso giardino e al sereno cortile interno. Qui troverete il luogo perfetto per rilassarvi.",
+      introText: "Col du Fatten è una casa vacanze autentica e suggestiva a Neerbeek, una base ideale per esplorare le colline del Zuid-Limburg. L'edificio unisce fascino storico a comfort moderno — dall'accogliente biblioteca e l'unica sala del pianoforte al rigoglioso giardino e al sereno cortile interno. Qui troverete il luogo perfetto per rilassarvi.",
       featuresTitle: "Dotazioni e spazi",
       features: [
         { title: "Due camere da letto", description: "Due camere da letto ampie ed eleganti con letti comodi e abbondante luce naturale." },

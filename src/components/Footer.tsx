@@ -26,50 +26,44 @@ const navKeys: Array<keyof ReturnType<typeof getDictionary>["nav"]> = [
 
 const footerTexts = {
   nl: {
-    description: "Sfeervol vakantieverblijf in het hart van Neerbeek, Limburg. Omgeven door heuvels, natuur en Bourgondische gezelligheid.",
+    description: "Sfeervol vakantieverblijf in het hart van Neerbeek, een dorp aan de heuvelpoort van Zuid-Limburg. Omgeven door heuvels, natuur en Bourgondische gezelligheid.",
     navigation: "Navigatie",
     contact: "Contact",
-    location: "Neerbeek, Limburg",
     country: "Nederland",
     rights: "Alle rechten voorbehouden.",
   },
   en: {
-    description: "Atmospheric holiday home in the heart of Neerbeek, Limburg. Surrounded by hills, nature and Burgundian hospitality.",
+    description: "Atmospheric holiday home in the heart of Neerbeek, a village at the gateway to the Zuid-Limburg hills. Surrounded by hills, nature and Burgundian hospitality.",
     navigation: "Navigation",
     contact: "Contact",
-    location: "Neerbeek, Limburg",
     country: "The Netherlands",
     rights: "All rights reserved.",
   },
   de: {
-    description: "Stimmungsvolles Ferienhaus im Herzen von Neerbeek, Limburg. Umgeben von Hügeln, Natur und burgundischer Gastfreundschaft.",
+    description: "Stimmungsvolles Ferienhaus im Herzen von Neerbeek, einem Dorf am Tor zum Hügelland von Zuid-Limburg. Umgeben von Hügeln, Natur und burgundischer Gastfreundschaft.",
     navigation: "Navigation",
     contact: "Kontakt",
-    location: "Neerbeek, Limburg",
     country: "Niederlande",
     rights: "Alle Rechte vorbehalten.",
   },
   fr: {
-    description: "Gîte chaleureux au cœur de Neerbeek, Limbourg. Entouré de collines, de nature et de convivialité bourguignonne.",
+    description: "Gîte chaleureux au cœur de Neerbeek, un village à la porte des collines du Zuid-Limburg. Entouré de collines, de nature et de convivialité bourguignonne.",
     navigation: "Navigation",
     contact: "Contact",
-    location: "Neerbeek, Limbourg",
     country: "Pays-Bas",
     rights: "Tous droits réservés.",
   },
   es: {
-    description: "Casa rural con encanto en el corazón de Neerbeek, Limburg. Rodeada de colinas, naturaleza y hospitalidad borgoñona.",
+    description: "Casa rural con encanto en el corazón de Neerbeek, un pueblo a las puertas de las colinas de Zuid-Limburg. Rodeada de colinas, naturaleza y hospitalidad borgoñona.",
     navigation: "Navegación",
     contact: "Contacto",
-    location: "Neerbeek, Limburg",
     country: "Países Bajos",
     rights: "Todos los derechos reservados.",
   },
   it: {
-    description: "Casa vacanze suggestiva nel cuore di Neerbeek, Limburg. Circondata da colline, natura e ospitalità borgognona.",
+    description: "Casa vacanze suggestiva nel cuore di Neerbeek, un villaggio alle porte delle colline del Zuid-Limburg. Circondata da colline, natura e ospitalità borgognona.",
     navigation: "Navigazione",
     contact: "Contatto",
-    location: "Neerbeek, Limburg",
     country: "Paesi Bassi",
     rights: "Tutti i diritti riservati.",
   },
@@ -120,7 +114,8 @@ export default function Footer() {
           </h3>
           <address className="not-italic leading-relaxed space-y-1">
             <p>Col du Fatten</p>
-            <p>{ft.location}</p>
+            <p>Fattenbergstraat 18</p>
+            <p>6191 ER Beek</p>
             <p>{ft.country}</p>
           </address>
         </div>
